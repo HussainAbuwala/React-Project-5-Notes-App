@@ -1,23 +1,30 @@
-# co42b487d95fbd5b5c8f9c4a8
+# Notes V1
 
-Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
+The Notes V1 is a simple and intuitive application designed to help you create, organize, and manage your notes effectively. It provides a convenient way to capture and store information, ensuring that your thoughts, ideas, and important details are easily accessible whenever you need them.
 
-Quick start:
+![Screen Recording 2023-07-11 at 7 56 39 PM](https://github.com/HussainAbuwala/React-Project-6-Notes-App-Firebase/assets/77569166/5d96cc15-87f3-4cc6-9b6a-5e164a850b7b)
 
-```
-$ npm install
-$ npm start
-````
+## Key Features
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+1. **Note Creation**: Create new notes by simply typing or pasting content into the app. The app supports plain text as well as markdown formatting, allowing you to structure your notes with headings, lists, bold/italic text, and more.
+2. **Note Deletion**: Delete any note using the trash can icon shown when you hover over a particular note.
+3. **Editing and Formatting**: Edit your notes effortlessly with a user-friendly editing interface. Format your text using markdown syntax or utilize the provided formatting toolbar for easy styling options. You can also edit existing notes, add new content, or modify the structure of your notes as needed.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Installation:
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+1. Clone the repository: `git clone https://github.com/HussainAbuwala/React-Project-5-Notes-App.git`
+2. Navigate to the project directory: `cd React-Project-5-Notes-App`
+3. Install dependencies: `npm install`
+4. To run the application: `npm run start`
 
-Happy Coding!
+## Tools & Languages Used
+
+1. HTML5
+2. CSS3
+3. JavaScript
+4. React
+5. Local Storage
+6. Vite
+7. GitHub
+8. netlify
+
